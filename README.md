@@ -2,6 +2,12 @@
 
 SolidJS client starter for faster app onboarding.
 
+## Installation
+
+```console
+npx degit https://github.com/Lzadhito/solidjs-starter
+```
+
 ## Libraries
 
 - Tailwind UI
@@ -10,12 +16,6 @@ SolidJS client starter for faster app onboarding.
 - Tanstack Query
 - Prettier + Prettier Plugin TailwindCSS
 - Lucide Solid (icons)
-
-## Installation
-
-```console
-npx degit https://github.com/Lzadhito/solidjs-starter
-```
 
 ## Prebuilt Components
 
